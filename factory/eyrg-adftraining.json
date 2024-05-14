@@ -1,0 +1,9 @@
+{
+	"name": "eyrg-adftraining",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "470be705-4779-423e-8759-c0e64cb4ee08",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}
