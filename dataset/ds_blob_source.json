@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": "user-Profiles/raw",
-				"container": "adf-container"
+				"folderPath": "userprofiles/raw",
+				"container": "adf-training"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
